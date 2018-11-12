@@ -15,7 +15,9 @@ It is based on sugestions by https://www.grocerycrud.com/forums/user/703-crina/ 
 
 The files midified are:
 application\libraries\Grocery_CRUD.php
+
 assets\grocery_crude\themes\datatables\views\list.php
+
 assest\grocery_crude\themes\flexigrid\views\list.php
 
 Just overwrite them.
