@@ -13,7 +13,7 @@ If it is asigned a smaller font to the cell, then it is posible to reduce column
 
 It is based on sugestions by https://www.grocerycrud.com/forums/user/703-crina/ in http://www.grocerycrud.com/forums/topic/902-is-it-possible-alter-render-of-th-widths/
 
-The files midified are:
+The files modified are:
 
 application\libraries\Grocery_CRUD.php
 
